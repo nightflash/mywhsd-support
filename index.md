@@ -2,6 +2,7 @@
 
 Мой ЗСД это неофициальное приложение для платной дороги в Санкт-Петербурге.
 
+### [Политика конфиденциальности](https://nightflash.github.io/mywhsd-support/privacy)
 
 ### Поддержка
 
@@ -16,6 +17,7 @@
 
 "My WHSD" is a non official app for toll road in Saint-Petersburg, Russia.
 
+### [Privacy Policy](https://nightflash.github.io/mywhsd-support/privacy)
 
 ### Support
 
