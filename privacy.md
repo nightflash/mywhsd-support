@@ -4,7 +4,7 @@
 2. All information will be transmitted only between your device and [official WHSD website](https://cabinet.nch-spb.com).
 3. This application does not collect any private information excepts those that Google and Apple stores for statistic reasons.
 
-## Политика конфеденциальности
+## Политика конфиденциальности
 
 1. Информация необходимая для выполнения запросов на сервер ЗСД (логин, пароль, авторизационный токен и пр.) будет сохранена только на вашем устройстве.
 2. Вся информация передается напрямую от вашего устройства на [сервера ЗСД](https://cabinet.nch-spb.com).
