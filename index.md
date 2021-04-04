@@ -7,7 +7,7 @@
 
 Если вы столкнулись с проблемой, пожалуйста, свяжитесь со мной:
 
-* Email: max.erekhinskiy@gmail.com
+* Email: [mailto:max.erekhinskiy@gmail.com](max.erekhinskiy@gmail.com)
 * Telegram: nightflash13
 * Instagram: nightflash13
 * Twitter: mxspb
