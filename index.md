@@ -7,7 +7,7 @@
 
 Если вы столкнулись с проблемой, пожалуйста, свяжитесь со мной:
 
-* Email: [max.erekhinskiy@gmail.com]("mailto:max.erekhinskiy@gmail.com?subject=Problem with MYWHSD app")
+* Email: [max.erekhinskiy@gmail.com](mailto:max.erekhinskiy@gmail.com?subject=Problem%20with%20MYWHSD%20app)
 * Telegram: nightflash13
 * Instagram: nightflash13
 * Twitter: mxspb
@@ -21,7 +21,7 @@
 
 If you facing a bug or have a question about this app please contact me:
 
-* Email: [max.erekhinskiy@gmail.com]("mailto:max.erekhinskiy@gmail.com?subject=Проблема в Мой ЗСД")
+* Email: [max.erekhinskiy@gmail.com](mailto:max.erekhinskiy@gmail.com?subject=Проблема%20в%20Мой%20ЗСД)
 * Telegram: nightflash13
 * Instagram: nightflash13
 * Twitter: mxspb
