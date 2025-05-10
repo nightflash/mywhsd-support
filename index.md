@@ -4,6 +4,8 @@
 
 ### [Политика конфиденциальности](https://nightflash.github.io/mywhsd-support/privacy)
 
+### [История приложения](https://nightflash.github.io/mywhsd-support/history)
+
 ### Поддержка
 
 Если вы столкнулись с проблемой, пожалуйста, свяжитесь со мной:
@@ -15,13 +17,13 @@
 
 ## Welcome to the "My WHSD" app webpage
 
-"My WHSD" is a non official app for toll road in Saint-Petersburg, Russia.
+"My WHSD" is a non-official app for toll road in Saint Petersburg, Russia.
 
 ### [Privacy Policy](https://nightflash.github.io/mywhsd-support/privacy)
 
 ### Support
 
-If you facing a bug or have a question about this app please contact me:
+If you are facing a bug or have a question about this app, please contact me:
 
 * Email: [max.erekhinskiy@gmail.com](mailto:max.erekhinskiy@gmail.com?subject=Проблема%20в%20Мой%20ЗСД)
 * Telegram: [nightflash13](https://t.me/nightflash13)
