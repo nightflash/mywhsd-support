@@ -2,9 +2,9 @@
 
 Мой ЗСД это неофициальное приложение для платной дороги в Санкт-Петербурге.
 
-### [Политика конфиденциальности](https://nightflash.github.io/mywhsd-support/privacy)
+### [Политика конфиденциальности](./privacy)
 
-### [История приложения](https://nightflash.github.io/mywhsd-support/history)
+### [История приложения](./history)
 
 ### Поддержка
 
