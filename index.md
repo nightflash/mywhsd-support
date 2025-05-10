@@ -19,7 +19,7 @@
 
 "My WHSD" is a non-official app for toll road in Saint Petersburg, Russia.
 
-### [Privacy Policy](https://nightflash.github.io/mywhsd-support/privacy)
+### [Privacy Policy](./privacy)
 
 ### Support
 
