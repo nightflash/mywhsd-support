@@ -98,6 +98,6 @@
 
 Если вы хотите, чтобы приложение развивалось и получало новые фичи — поддержите автора ☕️  
 
-👉 Тинькофф напрямую [https://www.tinkoff.ru/cf/5Y2zL1Bby8m](https://www.tinkoff.ru/cf/5Y2zL1Bby8m)
-👉 Cloudtips [https://pay.cloudtips.ru/p/6115a2d1](https://pay.cloudtips.ru/p/6115a2d1)
+* 👉 Тинькофф напрямую [https://www.tinkoff.ru/cf/5Y2zL1Bby8m](https://www.tinkoff.ru/cf/5Y2zL1Bby8m)
+* 👉 Cloudtips [https://pay.cloudtips.ru/p/6115a2d1](https://pay.cloudtips.ru/p/6115a2d1)
 
