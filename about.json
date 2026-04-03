@@ -1,0 +1,70 @@
+{
+  "ru": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Привет, дорогой друг!"
+      },
+      {
+        "type": "paragraph",
+        "text": "«Мой ЗСД» — это неофициальное приложение, которое я написал в свободное время. Хотелось сделать что-то полезное и при этом безвозмездное."
+      },
+      {
+        "type": "paragraph",
+        "text": "Я не связан с ЗСД и его структурами. Приложение не идеально, но выполняет свою основную задачу — помогает проверять баланс, пополнять счёт и смотреть историю поездок."
+      },
+      {
+        "type": "paragraph",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Вы можете прочитать больше в статье: "
+          },
+          {
+            "type": "link",
+            "text": "sobaka.ru",
+            "url": "http://www.sobaka.ru/city/internet/78414"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Hello, my dear friend!"
+      },
+      {
+        "type": "paragraph",
+        "text": "\"My WHSD\" is an unofficial application that I created in my spare time. I just wanted to make something useful and completely free."
+      },
+      {
+        "type": "paragraph",
+        "text": "I have no connection to WHSD or any of its organizations. The app is not perfect, but it does its main job — checking your balance, topping up your account, and showing your trip history."
+      },
+      {
+        "type": "paragraph",
+        "parts": [
+          {
+            "type": "text",
+            "text": "You can read more in the article: "
+          },
+          {
+            "type": "link",
+            "text": "sobaka.ru",
+            "url": "http://www.sobaka.ru/city/internet/78414"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      }
+    ]
+  }
+}
